@@ -1,5 +1,5 @@
 --- 
-title: first test note 
+title: test note 
 ---
 
 # Let's call this a beggining
