@@ -1,4 +1,6 @@
---- title: first test note ---
+--- 
+title: first test note 
+---
 
 # Let's call this a beggining
 *Of sorts*
