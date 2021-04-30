@@ -4,6 +4,8 @@ title: A note about cats
 
 This is a second note with a poem with cats. 
 
+And Let's please all remember the nice [[sound cats make]]
+
 Here's a link to a note that explains why it's important to [[move your body every day]].
 
 > I like my pillow, my fancy bed,
