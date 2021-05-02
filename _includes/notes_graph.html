@@ -2,33 +2,35 @@
   .links line {
     stroke: #ccc;
     opacity: 0.5;
+    box-shadow: 3px 3px 4px #000000;
   }
 
   .nodes circle {
     cursor: pointer;
     fill: #8b88e6;
-    transition: all 0.15s ease-out;
+    transition: all 0.25s ease-out;
+
   }
 
   .text text {
     cursor: pointer;
-    fill: #333;
-    text-shadow: -1px -1px 0 #fafafabb, 1px -1px 0 #fafafabb, -1px 1px 0 #fafafabb, 1px 1px 0 #fafafabb;
+    fill: rgb(165, 162, 162);
+    text-shadow: 3px 3px 4px #000000;
   }
 
   .nodes [active],
   .text [active] {
     cursor: pointer;
-    fill: black;
+    fill: rgb(156, 43, 141);
   }
 
   .inactive {
     opacity: 0.1;
-    transition: all 0.15s ease-out;
+    transition: all 0.25s ease-out;
   }
 
   #graph-wrapper {
-    background: #fcfcfc;
+    background: #00000013;
     border-radius: 4px;
     height: auto;
   }

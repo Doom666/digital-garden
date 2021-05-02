@@ -17,10 +17,3 @@ title: Workflows
 ---
 ### Navigation:
 [[The Core]]
-
-%% Metadata
-Date: Saturday, May 1, 2021
-Type: 
-Tags: 
-Categories:
-%%
