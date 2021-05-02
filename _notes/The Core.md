@@ -2,11 +2,8 @@
 title: The core of the vault
 ---
 
-# The Core Of my knowledge
-*** I love how "core" sounds 🤘***
-The intro was slightly inspired by [[The Matrix]].
-
-
+# The Core of my knowledge
+Galaxies have a core, so does your body, the eath, a tree and of course, my [[knowledge management system]], or digital garden.
 
 
   
