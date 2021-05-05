@@ -3,6 +3,7 @@ title: mechanics of the mind
 ---
 
 I believe that the mind is our abstraction of the processes of the brain.
+[[we have the tendency to abstract everything]]
 
 [[how do we deal with complexity]]
 

@@ -3,7 +3,7 @@ title: knowledge management system
 ---
 
 Also known as KMS, or PKM from Personal Knowledge Management. 
-From the getgo, I see some value on defining some [[PKM standards]]
+From the get go, I see some value on defining some [[PKM standards]]
 
 
 ---

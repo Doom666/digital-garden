@@ -1,9 +1,9 @@
 ---
-title: tag refference
+title: tag reference
 ---
 
 ## Type tags:
-define what type object the note reffers to:
+define what type object the note reefers to:
 - Video, Book, Article, Website...
 - Song, lyric, Poem, Writing, PKM...
 - Thought, Idea, Project, Process...
