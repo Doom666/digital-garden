@@ -7,6 +7,5 @@ There are 2 types of workflows to my knowledge, the ones that emerge, and the on
 
 
 ---
-### Navigation:
-[[The Core]]
+
 [^1]: not real real time :)

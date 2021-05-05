@@ -18,7 +18,7 @@ They are to communicate to my future self the status of that note, or something 
 ---
 ###### Navigation
 [[PKM standards|<<Go Back]]
-[[The Core|<< Go to the Core]]
+
 ###### Metadata
 Created: May 02, 2021.
 Type: #PKM

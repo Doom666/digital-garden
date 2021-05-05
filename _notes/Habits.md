@@ -13,9 +13,7 @@ title: Habits
 
 
 ---
-###### Navigation:
 
-[[The Core]]
 
 ###### Metadata
 Created:  Wednesday, May 5, 2021

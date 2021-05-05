@@ -28,9 +28,6 @@ It is my dream to develop the repercussions of this miss match effect in humans 
 
 
 ---
-###### Navigation:
-
-[[The Core]]
 
 ###### Metadata
 Created:  Wednesday, May 5, 2021

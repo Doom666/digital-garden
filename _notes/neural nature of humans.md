@@ -16,9 +16,6 @@ this means that we do not program ourselves, we domesticate ourselves at will.
 
 
 ---
-###### Navigation:
-
-[[The Core]]
 
 ###### Metadata
 Created:  Wednesday, May 5, 2021

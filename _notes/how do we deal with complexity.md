@@ -9,7 +9,6 @@ One of the ways we go about dealing with our complex lives is by learning as muc
 ---
 ###### Navigation
 [[mechanics of the mind|<<Go Back]]
-[[The Core|<< Go to the Core]]
 ###### Metadata
 Created: May 02, 2021.
 Type: 

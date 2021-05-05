@@ -20,7 +20,6 @@ This is not the Wikipedia, The Wikipedia shares the common knowledge of mankind,
 ---
 ###### Navigation
 [[knowledge management system|<<Go Back]]
-[[The Core|<< Go to the Core]]
 ###### Metadata
 Created: May 02, 2021.
 Type: #PKM
