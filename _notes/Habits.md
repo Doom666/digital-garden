@@ -2,10 +2,7 @@
 title: Habits
 ---
 
-# Category Page
-
-
-
+## Human neural programming
 
 
 
